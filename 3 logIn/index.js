@@ -6,7 +6,6 @@ const path = require('path');
 require('dotenv').config({ path: path.resolve(__dirname, '../.env') });
 
     (async () => {
-        console.log(`${process.env.SOME_PASS}`)
         const browser = await puppeteer.launch({
             headless: false,
         });
@@ -26,11 +25,11 @@ require('dotenv').config({ path: path.resolve(__dirname, '../.env') });
 
         //Save cookies
         let cookie = await page.cookies()
-        fs.writeFileSync(path.join(__dirname,'./c.json'), JSON.stringify(cookie))
+        fs.writeFileSync(path.join(__dirname,'../c.json'), JSON.stringify(cookie))
 
 
         // Cookies login
-        // let cookie = JSON.parse(fs.readFileSync(path.join(__dirname, `./c.json`),  'utf8'))
+        // let cookie = JSON.parse(fs.readFileSync(path.join(__dirname, `../c.json`),  'utf8'))
         // await page.setCookie(...cookie);
         // await page.goto('https://www.instagram.com/');
     })();

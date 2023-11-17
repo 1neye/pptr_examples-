@@ -14,7 +14,7 @@ const path = require('path');
     const userAgent = new UserAgent();
     await page.setUserAgent(userAgent.toString())
 
-    let cookie = JSON.parse(fs.readFileSync(path.join(__dirname, `./c.json`), 'utf8'))
+    let cookie = JSON.parse(fs.readFileSync(path.join(__dirname, `../c.json`), 'utf8'))
     await page.setCookie(...cookie);
     await page.goto('https://www.instagram.com/belle.delphine/followers/?hl=en', { waitUntil: 'networkidle2' })
     await page.waitForTimeout(6000)
