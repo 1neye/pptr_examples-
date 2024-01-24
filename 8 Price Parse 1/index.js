@@ -30,4 +30,3 @@ const prompt = require(`${__dirname}/modules/prompt`);
         console.log(price)
         // await browser.close();
     })();
-
