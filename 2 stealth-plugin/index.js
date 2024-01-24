@@ -3,8 +3,6 @@ const UserAgent = require(`${__dirname}/modules/userAgent`);
 const prompt = require(`${__dirname}/modules/prompt`);
 
 
-// illya.it 
-// Qwerty321
 
     (async () => {
         const browser = await puppeteer.launch({
