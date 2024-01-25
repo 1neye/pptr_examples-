@@ -18,18 +18,34 @@ const getPrices = require(`${__dirname}/getPrices`);
         } catch(e) {
             await page.evaluate(() => window.stop());
         }
-        
+
         await page.waitForTimeout(4000)
+
+        let pages = 3
+        let idx = 0
+
+        while(pages > idx) {
+            let data = await getPrices(page)
+
+            let read = JSON.parse(fs.readFileSync('./data.json'))
+            read.push(...data)
+            fs.writeFileSync('./data.json', JSON.stringify(read))
+
+
+            await page.click('.next')
+            await page.waitForTimeout(3000)
+            idx = idx + 1
+        }
         
-        let data = await getPrices(page)
-        console.log(data)
+        
+        
+        
+        
 
-        await page.waitForTimeout(3000)
-        await page.click('.next')
+        
+        
 
-        let read = JSON.parse(fs.readFileSync('./data.json'))
-        read.push(...data)
-        fs.writeFileSync('./data.json', JSON.stringify(read))
+        
 
         // https://www.convertcsv.com/json-to-csv.htm
 
