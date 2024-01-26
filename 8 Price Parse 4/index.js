@@ -48,7 +48,9 @@ const getPrices = require(`${__dirname}/getPrices`);
         //     })
         //     console.log(id)
         
-        
+        //  let arr1 =  [{url: 'httpp', price: 1}, {url: 'httpp2', price: 1},{}]
+
+        // let arr2 = [{url: 'httpp',description: 'descr'},{url: 'httpp2', description: 'd2'},{}]
 
         
 
