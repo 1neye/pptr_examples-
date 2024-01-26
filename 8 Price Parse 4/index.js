@@ -13,6 +13,7 @@ const getPrices = require(`${__dirname}/getPrices`);
         const page = await browser.newPage();
         const userAgent = new UserAgent();
         await page.setUserAgent(userAgent.toString())
+
         try {
             await page.goto('https://europa-market.ru/catalog/bulochnaya-konditerskaya-119?page=7');
         } catch(e) {
@@ -26,22 +27,26 @@ const getPrices = require(`${__dirname}/getPrices`);
 
         while(pages > idx) {
             let data = await getPrices(page)
+            console.log(data)
 
-            let read = JSON.parse(fs.readFileSync('./data.json'))
+            let read = JSON.parse(fs.readFileSync('./data.json')) 
             read.push(...data)
             fs.writeFileSync('./data.json', JSON.stringify(read))
 
-
+            await page.waitForTimeout(3000)
             await page.click('.next')
             await page.waitForTimeout(3000)
             idx = idx + 1
         }
-        
-        
-        
-        
-        
 
+        // let read = JSON.parse(fs.readFileSync('./data.json')) 
+
+        // await page.goto(read[i].url)
+        //     let id = await page.evaluate(() => {
+        //         let i = document.querySelector('.product-overview__features-right span').innerText
+        //         return i
+        //     })
+        //     console.log(id)
         
         
 

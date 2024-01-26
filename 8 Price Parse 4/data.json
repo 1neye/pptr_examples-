@@ -8,11 +8,15 @@
         "price": "20.9 "
     },
     {
-        "tittle": "Батон дорожный Европа 400 г свежий хлеб",
-        "price": "41.8 "
+        "tittle": "Хлеб Даренской Европа 650г Свежий хлеб",
+        "price": "25.3 "
     },
     {
         "tittle": "Батон дорожный Европа нарезанный 400 г свежий хлеб",
+        "price": "44 "
+    },
+    {
+        "tittle": "Батон Бутербродный Европа нарезанный 400 г Курскхлеб ОАО",
         "price": "44 "
     },
     {
@@ -22,6 +26,10 @@
     {
         "tittle": "Лаваш оригинальный Европа 200г Свежий хлеб",
         "price": "47.3 "
+    },
+    {
+        "tittle": "Лаваш оригинальный со вкусом сыра Европа 200 г свежий хлеб",
+        "price": "48.4 "
     },
     {
         "tittle": "Вафли с начинкой ванильные 150 г Европа",
@@ -96,11 +104,15 @@
         "price": "16.5 "
     },
     {
+        "tittle": "Козинак подсолнечный 50г Азовская КФ",
+        "price": "18.7 "
+    },
+    {
         "tittle": "Карамель чупа-чупс 16 г мороженое ассорти",
         "price": "20.9 "
     },
     {
-        "tittle": "Козинак подсолнечный 50г Азовская КФ",
+        "tittle": "Свит попс энчентаймелс 10 г карамель леденцовая на палочке в форме сердца сладкая сказка",
         "price": "22 "
     },
     {
@@ -128,7 +140,23 @@
         "price": "25.3 "
     },
     {
+        "tittle": "Хлеб дарницкий 600 г курскхлеб оао",
+        "price": "25.3 "
+    },
+    {
+        "tittle": "Батон чайный нарезанный 200г курскхлеб оао",
+        "price": "26.99 "
+    },
+    {
+        "tittle": "Кислая атака жевательная конфета 11 г ассорти сладкая сказка",
+        "price": "27.5 "
+    },
+    {
         "tittle": "Пампушка с соусом Тар-Тар 50г, собственное производство",
+        "price": "27.5 "
+    },
+    {
+        "tittle": "Три кота карамель леденцовая 18 г сладкая сказка",
         "price": "27.5 "
     },
     {
@@ -148,6 +176,10 @@
         "price": "28.6 "
     },
     {
+        "tittle": "Хлеб столичный подовый нарезанный 350г курскхлеб оао",
+        "price": "28.99 "
+    },
+    {
         "tittle": "Батон чайный нарезанный 200 г свежий хлеб",
         "price": "29.7 "
     },
@@ -160,8 +192,8 @@
         "price": "29.7 "
     },
     {
-        "tittle": "Хлеб слободской 315г Курскхлеб ОАО",
-        "price": "29.7 "
+        "tittle": "Напиток кисломолочный имунеле кидс 100 г 1, 5% земляничное печенье",
+        "price": "29.70 "
     },
     {
         "tittle": "Багет мини солодовый 100г, собственное производство",
@@ -200,23 +232,7 @@
         "price": "33 "
     },
     {
-        "tittle": "Кислая атака жевательная конфета 11 г ассорти сладкая сказка",
-        "price": "33 "
-    },
-    {
-        "tittle": "Три кота карамель леденцовая 18 г сладкая сказка",
-        "price": "33 "
-    },
-    {
-        "tittle": "Пирожки постные 65 г с повидлом сп",
-        "price": "33 "
-    },
-    {
         "tittle": "Резинка жев. импульс 14 г со вкусом фруктов кдв групп",
-        "price": "33 "
-    },
-    {
-        "tittle": "Свит попс энчентаймелс 10 г карамель леденцовая на палочке в форме сердца сладкая сказка",
         "price": "33 "
     },
     {
@@ -225,10 +241,6 @@
     },
     {
         "tittle": "Свит попс зебра в клеточку 10 г карамель леденцовая круглая на палочке сладкая сказка",
-        "price": "33 "
-    },
-    {
-        "tittle": "Пирожки постные 65 г с капустой сп",
         "price": "33 "
     },
     {
@@ -249,10 +261,6 @@
     },
     {
         "tittle": "Резинка жев. импульс 14 г со вкусом клубники кдв групп",
-        "price": "33 "
-    },
-    {
-        "tittle": "Напиток кисломолочный имунеле кидс 100 г 1, 5% земляничное печенье",
         "price": "33 "
     },
     {
@@ -280,11 +288,483 @@
         "price": "36.3 "
     },
     {
-        "tittle": "Шоколад Milky Way 26г Mars",
-        "price": "36.3 "
+        "tittle": "Хлеб курский Европа 600 г курскхлеб оао",
+        "price": "18.7 ",
+        "url": "https://europa-market.ru/product/hleb-kurskiy-evropa-600-g-kurskhleb-oao-934979"
     },
     {
-        "tittle": "Крендель с сахаром 70г, собственное производство",
-        "price": "36.3 "
+        "tittle": "Батончик молочный Европа 300 г курскхлеб оао",
+        "price": "20.9 ",
+        "url": "https://europa-market.ru/product/batonchik-molochny-300g-kurskhleb-oao-214580"
+    },
+    {
+        "tittle": "Хлеб Даренской Европа 650г Свежий хлеб",
+        "price": "25.3 ",
+        "url": "https://europa-market.ru/product/hleb-darenskoy-evropa-650g-svejiy-hleb-920110"
+    },
+    {
+        "tittle": "Батон дорожный Европа нарезанный 400 г свежий хлеб",
+        "price": "44 ",
+        "url": "https://europa-market.ru/product/baton-dorojny-evropa-narezanny-400g-svejiy-hleb-832576"
+    },
+    {
+        "tittle": "Батон Бутербродный Европа нарезанный 400 г Курскхлеб ОАО",
+        "price": "44 ",
+        "url": "https://europa-market.ru/product/baton-dorojny-evropa-narezanny-400-g-kurskhleb-oao-934982"
+    },
+    {
+        "tittle": "Карамель на палочке ева 32 г ассорти",
+        "price": "44 ",
+        "url": "https://europa-market.ru/product/karamel-na-palochke-ledencovaya-v-forme-chat-bot-eva-32-g-so-vkus-966582"
+    },
+    {
+        "tittle": "Лаваш оригинальный Европа 200г Свежий хлеб",
+        "price": "47.3 ",
+        "url": "https://europa-market.ru/product/lavash-originalny-evropa-200g-svejiy-hleb-822615"
+    },
+    {
+        "tittle": "Лаваш оригинальный со вкусом сыра Европа 200 г свежий хлеб",
+        "price": "48.4 ",
+        "url": "https://europa-market.ru/product/lavash-originalny-so-vkusom-syra-evropa-200g-svejiy-hleb-822616"
+    },
+    {
+        "tittle": "Вафли с начинкой ванильные 150 г Европа",
+        "price": "55 ",
+        "url": "https://europa-market.ru/product/vafli-s-nachinkoy-evropa-vanilnye-150g-kolos-822837"
+    },
+    {
+        "tittle": "Вафли с начинкой к чаю 150 г Европа",
+        "price": "55 ",
+        "url": "https://europa-market.ru/product/vafli-s-nachinkoy-evropa-k-chayu-150g-kolos-822838"
+    },
+    {
+        "tittle": "Вафли с начинкой сгущенное молоко 150 г Европа",
+        "price": "55 ",
+        "url": "https://europa-market.ru/product/vafli-s-nachinkoy-evropa-sguschennoe-moloko-150g-kolos-822839"
+    },
+    {
+        "tittle": "Сушка Звездочка 200г Европа",
+        "price": "57.2 ",
+        "url": "https://europa-market.ru/product/sushka-zvezdochka-200g-evropa-948263"
+    },
+    {
+        "tittle": "Сушка Крошечная 200г Европа",
+        "price": "57.2 ",
+        "url": "https://europa-market.ru/product/sushka-kroshechnaya-200g-evropa-948267"
+    },
+    {
+        "tittle": "Печенье затяжное мария 300 г Европа",
+        "price": "77 ",
+        "url": "https://europa-market.ru/product/pechene-zatyajnoe-mariya-300-g-evropa-958626"
+    },
+    {
+        "tittle": "Зефир Люблю Жизнь 270 г бело-розовый",
+        "price": "77 ",
+        "url": "https://europa-market.ru/product/zefir-lyublyu-jizn-270-g-belo-rozovy-960463"
+    },
+    {
+        "tittle": "Зефир Люблю Жизнь 190 г глазированный с ароматом ванили",
+        "price": "77 ",
+        "url": "https://europa-market.ru/product/zefir-lyublyu-jizn-190-g-glazirovanny-s-aramatom-vanili-960464"
+    },
+    {
+        "tittle": "Крекер стайка рыбок 300 г Европа",
+        "price": "88 ",
+        "url": "https://europa-market.ru/product/kreker-stayka-rybok-300-g-evropa-958625"
+    },
+    {
+        "tittle": "Шоколад Люблю 100г молочный с орехом",
+        "price": "99 ",
+        "url": "https://europa-market.ru/product/shokolad-lyublyu-100g-molochny-s-orehom-860532"
+    },
+    {
+        "tittle": "Шоколад Люблю темный 100г",
+        "price": "99 ",
+        "url": "https://europa-market.ru/product/shokolad-lyublyu-100g-temny-860526"
+    },
+    {
+        "tittle": "Шоколад Люблю молочный с орехом и изюмом 100г",
+        "price": "99 ",
+        "url": "https://europa-market.ru/product/shokolad-lyublyu-100g-molochny-s-orehom-i-izyumom-860534"
+    },
+    {
+        "tittle": "Шоколад Люблю 100г молочный",
+        "price": "99 ",
+        "url": "https://europa-market.ru/product/shokolad-lyublyu-100g-molochny-860529"
+    },
+    {
+        "tittle": "Конфеты Европейская Птичка 245г гост",
+        "price": "258.5 ",
+        "url": "https://europa-market.ru/product/konfety-evropeyskaya-ptichka-lyublyu-jizn-245g-gost-374887"
+    },
+    {
+        "tittle": "Карамель чупа-чупс 12 г токи-о ванн мелле",
+        "price": "13.99 ",
+        "url": "https://europa-market.ru/product/karamel-chupa-chups-toki-o-12g-vann-melle-915416"
+    },
+    {
+        "tittle": "Булочка для завтрака 50г, собственное производство",
+        "price": "16.5 ",
+        "url": "https://europa-market.ru/product/bulochka-dlya-zavtraka-50g-sobstvennoe-proizvodstvo-375942"
+    },
+    {
+        "tittle": "Вафли эко ботаника 25 г с йогуртом и клубникой рот фронт",
+        "price": "16.50 ",
+        "url": "https://europa-market.ru/product/vafli-eko-botanika-25-g-s-yogurtom-i-klubnikoy-rot-front-959498"
+    },
+    {
+        "tittle": "Карамель чупа-чупс 12 г кислорот ванн мелле",
+        "price": "16.5 ",
+        "url": "https://europa-market.ru/product/karamel-chupa-chups-12-g-kislorot-vann-melle-947420"
+    },
+    {
+        "tittle": "Козинак подсолнечный 50г Азовская КФ",
+        "price": "18.7 ",
+        "url": "https://europa-market.ru/product/kozinak-podsolnechny-50g-azovskaya-kf-175271"
+    },
+    {
+        "tittle": "Карамель чупа-чупс 16 г мороженое ассорти",
+        "price": "20.9 ",
+        "url": "https://europa-market.ru/product/karamel-chupa-chups-morojenoe-assorti-16g-63386"
+    },
+    {
+        "tittle": "Свит попс энчентаймелс 10 г карамель леденцовая на палочке в форме сердца сладкая сказка",
+        "price": "22 ",
+        "url": "https://europa-market.ru/product/svit-pops-enchentaymels-10-g-karamel-ledencovaya-na-palochke-v-fo-958001"
+    },
+    {
+        "tittle": "Мармелад жев. фрутелла 10 г 2-д мини манга стартики ван мелле",
+        "price": "22 ",
+        "url": "https://europa-market.ru/product/marmelad-jev-frutella-10-g-2-d-mini-manga-startiki-van-melle-973173"
+    },
+    {
+        "tittle": "Шоколадный батончик чио рио 30 г в мягкой карамели",
+        "price": "22 ",
+        "url": "https://europa-market.ru/product/shokoladny-batonchik-chio-rio-30-g-v-myakoy-karameli-935944"
+    },
+    {
+        "tittle": "Три кота жевательная конфета 11 г с омега-3 сладкая сказка",
+        "price": "22 ",
+        "url": "https://europa-market.ru/product/tri-kota-jevatelnaya-konfeta-11-g-s-omega-3-sladkaya-skazka-958007"
+    },
+    {
+        "tittle": "Карамель фруктовое ассорти Chupa-Chups с соком 12г",
+        "price": "24.2 ",
+        "url": "https://europa-market.ru/product/karamel-fruktovoe-assorti-chupa-chups-s-sokom-12g-2877"
+    },
+    {
+        "tittle": "Тортик мини боярушка вафельный классический 38г Славянка",
+        "price": "24.2 ",
+        "url": "https://europa-market.ru/product/tortik-mini-boyarushka-vafelny-klassicheskiy-38g-slavyanka-849975"
+    },
+    {
+        "tittle": "Мини рулет мэлори клубничный 40 г яшкино",
+        "price": "25.3 ",
+        "url": "https://europa-market.ru/product/mini-rulet-melori-klubnichny-40-g-yashkino-935945"
+    },
+    {
+        "tittle": "Хлеб дарницкий 600 г курскхлеб оао",
+        "price": "25.3 ",
+        "url": "https://europa-market.ru/product/hleb-darnickiy-650g-kurskhleb-oao-49383"
+    },
+    {
+        "tittle": "Батон чайный нарезанный 200г курскхлеб оао",
+        "price": "26.99 ",
+        "url": "https://europa-market.ru/product/baton-chayny-narezanny-200g-kurskhleb-oao-898491"
+    },
+    {
+        "tittle": "Кислая атака жевательная конфета 11 г ассорти сладкая сказка",
+        "price": "27.5 ",
+        "url": "https://europa-market.ru/product/kislaya-ataka-jevatelnaya-konfeta-11-g-assorti-sladkaya-skazka-958008"
+    },
+    {
+        "tittle": "Пампушка с соусом Тар-Тар 50г, собственное производство",
+        "price": "27.5 ",
+        "url": "https://europa-market.ru/product/pampushka-s-sousom-tar-tar-50g-sobstvennoe-proizvodstvo-218144"
+    },
+    {
+        "tittle": "Три кота карамель леденцовая 18 г сладкая сказка",
+        "price": "27.5 ",
+        "url": "https://europa-market.ru/product/tri-kota-karamel-ledencovaya-18-g-sladkaya-skazka-957995"
+    },
+    {
+        "tittle": "Батон горчичный нарезанный 200г Курскхлеб ОАО",
+        "price": "28.6 ",
+        "url": "https://europa-market.ru/product/baton-gorchichny-narezanny-200g-kurskhleb-oao-220547"
+    },
+    {
+        "tittle": "Конфеты обыкновенное Чудо 40г классическое Славянка",
+        "price": "28.6 ",
+        "url": "https://europa-market.ru/product/konfety-obyknovennoe-chudo-40g-klassicheskoe-slavyanka-808846"
+    },
+    {
+        "tittle": "Карамель Chupa-Chups Fruit-tella ассорти 17г",
+        "price": "28.6 ",
+        "url": "https://europa-market.ru/product/karamel-chupa-chups-fruit-tella-assorti-17g-187603"
+    },
+    {
+        "tittle": "Хлеб пеклеванный курский нарезанный 315 г курскхлеб оао",
+        "price": "28.6 ",
+        "url": "https://europa-market.ru/product/hleb-peklevanny-kurskiy-narezanny-315-g-kurskhleb-oao-926477"
+    },
+    {
+        "tittle": "Батон чайный нарезанный 200 г свежий хлеб",
+        "price": "29.7 ",
+        "url": "https://europa-market.ru/product/baton-chayny-narezanny-200g-svejiy-hleb-133142"
+    },
+    {
+        "tittle": "Хлеб коренской нарезанный 300г Курскхлеб ОАО",
+        "price": "29.7 ",
+        "url": "https://europa-market.ru/product/hleb-korenskoy-narezanny-300g-kurskhleb-oao-859679"
+    },
+    {
+        "tittle": "Багет мини 100г, собственное производство",
+        "price": "29.7 ",
+        "url": "https://europa-market.ru/product/baget-mini-100g-sobstvennoe-proizvodstvo-271249"
+    },
+    {
+        "tittle": "Напиток кисломолочный имунеле кидс 100 г 1, 5% земляничное печенье",
+        "price": "29.70 ",
+        "url": "https://europa-market.ru/product/napitok-kislomolochny-imunele-kids-100-g-1-5-zemlyanichnoe-pechen-967210"
+    },
+    {
+        "tittle": "Багет мини солодовый 100г, собственное производство",
+        "price": "30.8 ",
+        "url": "https://europa-market.ru/product/baget-mini-solodovy-100g-sobstvennoe-proizvodstvo-820499"
+    },
+    {
+        "tittle": "Булочка домашняя 70г, собственное производство",
+        "price": "30.8 ",
+        "url": "https://europa-market.ru/product/bulochka-domashnyaya-70g-sobstvennoe-proizvodstvo-333854"
+    },
+    {
+        "tittle": "Батон дорожный нарезанный 200 г свежий хлеб",
+        "price": "30.8 ",
+        "url": "https://europa-market.ru/product/baton-dorojny-vysshiy-sort-narezanny-200g-svejiy-hleb-77713"
+    },
+    {
+        "tittle": "Печенье Когда Я вырасту 35г 5 злаков с 6 месяцев",
+        "price": "30.8 ",
+        "url": "https://europa-market.ru/product/pechene-kogda-ya-vyrastu-35g-5-zlakov-s-6-mesyacev-880139"
+    },
+    {
+        "tittle": "Батончик злаковый эго кидс 25 г клубничный десерт формула жизни",
+        "price": "31.9 ",
+        "url": "https://europa-market.ru/product/batonchik-zlakovy-ego-kids-25-g-klubnichny-desert-formula-jizni-807429"
+    },
+    {
+        "tittle": "Хлеб горняцкий нарезанный 300г Свежий хлеб",
+        "price": "31.9 ",
+        "url": "https://europa-market.ru/product/hleb-gornyackiy-narezanny-300g-svejiy-hleb-133140"
+    },
+    {
+        "tittle": "Хлеб богородский нарезанный 325г Свежий хлеб",
+        "price": "31.9 ",
+        "url": "https://europa-market.ru/product/hleb-bogorodskiy-narezanny-325g-svejiy-hleb-77712"
+    },
+    {
+        "tittle": "Резинка жев. импульс 14 г со вкусом мяты кдв групп",
+        "price": "33 ",
+        "url": "https://europa-market.ru/product/rezinka-jev-impuls-14-g-so-vkusom-myaty-kdv-grupp-954707"
+    },
+    {
+        "tittle": "Резинка жев. импульс 14 г со вкусом арбуза кдв групп",
+        "price": "33 ",
+        "url": "https://europa-market.ru/product/rezinka-jev-impuls-14-g-so-vkusom-arbuza-kdv-grupp-954709"
+    },
+    {
+        "tittle": "Резинка жев. импульс 14 г со вкусом фруктов кдв групп",
+        "price": "33 ",
+        "url": "https://europa-market.ru/product/rezinka-jev-impuls-14-g-so-vkusom-fruktov-kdv-grupp-954706"
+    },
+    {
+        "tittle": "Вафли Артек плюс 100г Воронежская КФ",
+        "price": "33 ",
+        "url": "https://europa-market.ru/product/vafli-artek-plyus-100g-voronejskaya-kf-312386"
+    },
+    {
+        "tittle": "Свит попс зебра в клеточку 10 г карамель леденцовая круглая на палочке сладкая сказка",
+        "price": "33 ",
+        "url": "https://europa-market.ru/product/svit-pops-zebra-v-kletochku-10-g-karamel-ledencovaya-kruglaya-na--958002"
+    },
+    {
+        "tittle": "Резинка жев. дирол 13.6 г морозная вишня подушечки",
+        "price": "33 ",
+        "url": "https://europa-market.ru/product/rezinka-jev-dirol-136-g-moroznaya-vishnya-podushechki-949832"
+    },
+    {
+        "tittle": "Вафли ладушки 100г вкус лимона Воронежская КФ",
+        "price": "33 ",
+        "url": "https://europa-market.ru/product/vafli-ladushki-100g-vkus-limona-voronejskaya-kf-54645"
+    },
+    {
+        "tittle": "Шоколадный батончик с молочной начинкой Baby Fox 45 г",
+        "price": "33 ",
+        "url": "https://europa-market.ru/product/shokoladny-batonchik-s-molochnoy-nachinkoy-bebi-foks-45-g-940761"
+    },
+    {
+        "tittle": "Свит попс лео и тиг 10 г карамель леденцовая круглая на палочке сладкая сказка",
+        "price": "33 ",
+        "url": "https://europa-market.ru/product/svit-pops-leo-i-tig-10-g-karamel-ledencovaya-kruglaya-na-palochke-957999"
+    },
+    {
+        "tittle": "Резинка жев. импульс 14 г со вкусом клубники кдв групп",
+        "price": "33 ",
+        "url": "https://europa-market.ru/product/rezinka-jev-impuls-14-g-so-vkusom-klubniki-kdv-grupp-954708"
+    },
+    {
+        "tittle": "Свит попс пушин 10 г карамель леденцовая круглая на палочке сладкая сказка",
+        "price": "33 ",
+        "url": "https://europa-market.ru/product/svit-pops-pushin-10-g-karamel-ledencovaya-kruglaya-na-palochke-sl-958000"
+    },
+    {
+        "tittle": "Хлеб Заварной Ароматный нарезанный 300 г Свежий хлеб",
+        "price": "35.2 ",
+        "url": "https://europa-market.ru/product/hleb-zavarnoy-aromatny-narezanny-300-g-svejiy-hleb-953924"
+    },
+    {
+        "tittle": "Вафли джумка 37 г с мягкой карамелью и воздушной кукурузой",
+        "price": "35.2 ",
+        "url": "https://europa-market.ru/product/vafli-djumka-37-g-s-myagkoy-karamelyu-i-vozdushnoy-kukuruzoy-936042"
+    },
+    {
+        "tittle": "Шоколадный батончик Степ mix 44г славянка",
+        "price": "35.99 ",
+        "url": "https://europa-market.ru/product/shokoladny-batonchik-step-mix-44g-slavyanka-904977"
+    },
+    {
+        "tittle": "Вафли зебра 40 г с мягкой карамелью арахисом и изюмом",
+        "price": "36.3 ",
+        "url": "https://europa-market.ru/product/vafli-zebra-40-g-s-myagkoy-karamelyu-arahisom-i-izyumom-966626"
+    },
+    {
+        "tittle": "Крекер Приксы 50г с сыром Бежицкий ПК",
+        "price": "36.3 ",
+        "url": "https://europa-market.ru/product/kreker-priksy-50g-s-syrom-bejickiy-pk-322953"
+    },
+    {
+        "tittle": "Шоколад Milky Way 26г Mars",
+        "price": "36.3 ",
+        "url": "https://europa-market.ru/product/shokolad-milky-way-26g-2726"
+    },
+    {
+        "tittle": "Хлеб курский Европа 600 г курскхлеб оао",
+        "price": "18.7 ",
+        "url": "https://europa-market.ru/product/hleb-kurskiy-evropa-600-g-kurskhleb-oao-934979"
+    },
+    {
+        "tittle": "Батончик молочный Европа 300 г курскхлеб оао",
+        "price": "20.9 ",
+        "url": "https://europa-market.ru/product/batonchik-molochny-300g-kurskhleb-oao-214580"
+    },
+    {
+        "tittle": "Хлеб Даренской Европа 650г Свежий хлеб",
+        "price": "25.3 ",
+        "url": "https://europa-market.ru/product/hleb-darenskoy-evropa-650g-svejiy-hleb-920110"
+    },
+    {
+        "tittle": "Батон дорожный Европа нарезанный 400 г свежий хлеб",
+        "price": "44 ",
+        "url": "https://europa-market.ru/product/baton-dorojny-evropa-narezanny-400g-svejiy-hleb-832576"
+    },
+    {
+        "tittle": "Батон Бутербродный Европа нарезанный 400 г Курскхлеб ОАО",
+        "price": "44 ",
+        "url": "https://europa-market.ru/product/baton-dorojny-evropa-narezanny-400-g-kurskhleb-oao-934982"
+    },
+    {
+        "tittle": "Карамель на палочке ева 32 г ассорти",
+        "price": "44 ",
+        "url": "https://europa-market.ru/product/karamel-na-palochke-ledencovaya-v-forme-chat-bot-eva-32-g-so-vkus-966582"
+    },
+    {
+        "tittle": "Лаваш оригинальный Европа 200г Свежий хлеб",
+        "price": "47.3 ",
+        "url": "https://europa-market.ru/product/lavash-originalny-evropa-200g-svejiy-hleb-822615"
+    },
+    {
+        "tittle": "Лаваш оригинальный со вкусом сыра Европа 200 г свежий хлеб",
+        "price": "48.4 ",
+        "url": "https://europa-market.ru/product/lavash-originalny-so-vkusom-syra-evropa-200g-svejiy-hleb-822616"
+    },
+    {
+        "tittle": "Вафли с начинкой ванильные 150 г Европа",
+        "price": "55 ",
+        "url": "https://europa-market.ru/product/vafli-s-nachinkoy-evropa-vanilnye-150g-kolos-822837"
+    },
+    {
+        "tittle": "Вафли с начинкой к чаю 150 г Европа",
+        "price": "55 ",
+        "url": "https://europa-market.ru/product/vafli-s-nachinkoy-evropa-k-chayu-150g-kolos-822838"
+    },
+    {
+        "tittle": "Вафли с начинкой сгущенное молоко 150 г Европа",
+        "price": "55 ",
+        "url": "https://europa-market.ru/product/vafli-s-nachinkoy-evropa-sguschennoe-moloko-150g-kolos-822839"
+    },
+    {
+        "tittle": "Сушка Звездочка 200г Европа",
+        "price": "57.2 ",
+        "url": "https://europa-market.ru/product/sushka-zvezdochka-200g-evropa-948263"
+    },
+    {
+        "tittle": "Сушка Крошечная 200г Европа",
+        "price": "57.2 ",
+        "url": "https://europa-market.ru/product/sushka-kroshechnaya-200g-evropa-948267"
+    },
+    {
+        "tittle": "Печенье затяжное мария 300 г Европа",
+        "price": "77 ",
+        "url": "https://europa-market.ru/product/pechene-zatyajnoe-mariya-300-g-evropa-958626"
+    },
+    {
+        "tittle": "Зефир Люблю Жизнь 270 г бело-розовый",
+        "price": "77 ",
+        "url": "https://europa-market.ru/product/zefir-lyublyu-jizn-270-g-belo-rozovy-960463"
+    },
+    {
+        "tittle": "Зефир Люблю Жизнь 190 г глазированный с ароматом ванили",
+        "price": "77 ",
+        "url": "https://europa-market.ru/product/zefir-lyublyu-jizn-190-g-glazirovanny-s-aramatom-vanili-960464"
+    },
+    {
+        "tittle": "Крекер стайка рыбок 300 г Европа",
+        "price": "88 ",
+        "url": "https://europa-market.ru/product/kreker-stayka-rybok-300-g-evropa-958625"
+    },
+    {
+        "tittle": "Шоколад Люблю 100г молочный с орехом",
+        "price": "99 ",
+        "url": "https://europa-market.ru/product/shokolad-lyublyu-100g-molochny-s-orehom-860532"
+    },
+    {
+        "tittle": "Шоколад Люблю темный 100г",
+        "price": "99 ",
+        "url": "https://europa-market.ru/product/shokolad-lyublyu-100g-temny-860526"
+    },
+    {
+        "tittle": "Шоколад Люблю молочный с орехом и изюмом 100г",
+        "price": "99 ",
+        "url": "https://europa-market.ru/product/shokolad-lyublyu-100g-molochny-s-orehom-i-izyumom-860534"
+    },
+    {
+        "tittle": "Шоколад Люблю 100г молочный",
+        "price": "99 ",
+        "url": "https://europa-market.ru/product/shokolad-lyublyu-100g-molochny-860529"
+    },
+    {
+        "tittle": "Конфеты Европейская Птичка 245г гост",
+        "price": "258.5 ",
+        "url": "https://europa-market.ru/product/konfety-evropeyskaya-ptichka-lyublyu-jizn-245g-gost-374887"
+    },
+    {
+        "tittle": "Карамель чупа-чупс 12 г токи-о ванн мелле",
+        "price": "13.99 ",
+        "url": "https://europa-market.ru/product/karamel-chupa-chups-toki-o-12g-vann-melle-915416"
+    },
+    {
+        "tittle": "Булочка для завтрака 50г, собственное производство",
+        "price": "16.5 ",
+        "url": "https://europa-market.ru/product/bulochka-dlya-zavtraka-50g-sobstvennoe-proizvodstvo-375942"
     }
 ]

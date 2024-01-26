@@ -14,10 +14,12 @@ let getPrices = async (page) => {
             let tittle = html.querySelector('.card-product-content__title').innerText;
             tittle = tittle.replace(/(\r\n|\n|\r)/gm," ").trim();
             let price = html.querySelector('span[itemprop="price"]').innerText;
+            let url = html.querySelector('.card-product-image  a').href;
 
             let obj = {
                 tittle: tittle,
-                price: price
+                price: price,
+                url: url
             }
 
             arr.push(obj)
